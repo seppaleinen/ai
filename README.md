@@ -1,5 +1,4 @@
 
-
 #### Installed llms
 ```
 mistral:latest
